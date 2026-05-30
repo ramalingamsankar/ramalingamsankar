@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Ramalingam and i'm a student From REC.</p>
+<p align="left">I am a Computer Science and Engineering student at Rajalakshmi Engineering College with a strong foundation
+in programming, data structures, and software development. I have hands-on experience in full-stack
+development, backend systems, and machine learning through internships, hackathons, and academic projects. I
+am focused on building scalable applications and continuously improving my problem solving and technical
+skills</p>
 
 ###
 
