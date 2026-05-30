@@ -5,14 +5,11 @@
 <h1>Hey there, I'm Ramalingam S 👋</h1>
 <p><em>Computer Science &amp; Engineering student · Full-Stack · ML · Builder</em></p>
 
-<a href="https://www.linkedin.com/in/ramalingam-s">
+<a href="https://www.linkedin.com/in/ramalingamsankaranarayanan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ramalingamsrec@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+919962112711">
-  <img src="https://img.shields.io/badge/+91 9962112711-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -26,9 +23,6 @@
 🏙️  Chennai, Tamil Nadu, India
 🔭  Currently building: full-stack apps + ML systems
 🌱  Focused on: scalable applications & problem-solving
-🏆  2nd Place – AI Sprint (LIBA Chrysalis 2025) | National & RAP Hackathon Finalist
-⚡  Fun fact: "You think NullPointerException is bad?
-             Wait until you meet ConcurrentModificationException."
 ```
 
 ---
@@ -68,7 +62,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [WorkWave – Smart Freelancer-Client Interaction System](https://github.com/ramalingamsrec/workwave)
+### 🔗 [WorkWave – Smart Freelancer-Client Interaction System](https://github.com/230701261/WorkWave)
 > Full-stack mobile app connecting freelancers and clients with role-based UIs, real-time messaging,
 > smart contracts for payments, and a unique **Recall system** to re-invite past freelancers.
 
@@ -76,7 +70,7 @@
 
 ---
 
-### 🔍 [AutoAudit – Intelligent Audit & Anomaly Detection Platform](https://github.com/ramalingamsrec/autoaudit)
+### 🔍 [AutoAudit – Intelligent Audit & Anomaly Detection Platform](https://github.com/230701261/AutoAudit)
 > AI-powered platform to analyze financial transactions, detect anomalies, generate compliance scores,
 > and surface risks through interactive dashboards.
 
@@ -84,19 +78,11 @@
 
 ---
 
-### 💡 [Innovators – Entrepreneur Empowerment Platform](https://github.com/ramalingamsrec/innovators)
+### 💡 [Innovators – Entrepreneur Empowerment Platform](https://github.com/230701261/innovators)
 > ML-powered budgeting platform for startups — budget forecasting, ROI analysis, Udemy/Coursera
 > learning recommendations, mentorship & funding modules.
 
 `Flutter` `Python` `LSTM` `Decision Tree` `Scikit-learn`
-
----
-
-### 🗑️ [CleanSlate – Secure Data Wiping & E-Waste Management](https://github.com/ramalingamsrec/cleanslate)
-> Cross-platform AI-driven tool for verifiable data wiping across HDDs/SSDs/NVMe, with
-> blockchain-secured erasure certificates and green credits for sustainable recycling.
-
-`Python` `Django` `Rust` `Tauri` `React` `PostgreSQL` `SQLite`
 
 ---
 
@@ -113,17 +99,6 @@
 | 🥈 2nd Place – AI Sprint (LIBA Chrysalis 2025) | LIBA |
 | 🏁 Finalist – National Level Hackathon | St. Joseph's College of Engineering |
 | 🏁 Finalist – RAP Hackathon 2025 | Rapid Acceleration Partners |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ramalingamsrec&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramalingamsrec&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
 
 ---
 
